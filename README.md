@@ -1,1 +1,1 @@
-# Regional Acticvity of Risk Anticipation
+# Regional Acticvity of Risk Anticipation: An fMRI Study
