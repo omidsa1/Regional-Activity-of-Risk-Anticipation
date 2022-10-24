@@ -1,7 +1,5 @@
 # Regional Activity of Risk Anticipation: A fMRI Study
 
-## Introduction
-
 The Human Connectome Project (HCP) is a project sponsored by sixteen components of the National Institutes of Health, split between two consortia of research institutions. The project was launched in July 2009 as the first of three Grand Challenges of the NIH's Blueprint for Neuroscience Research.
 
 The goal of the Human Connectome Project is to build a "network map" (connectome) that will shed light on the anatomical and functional connectivity within the healthy human brain, as well as to produce a body of data that will facilitate research into brain disorders such as dyslexia, autism, Alzheimer's disease, and schizophrenia.
