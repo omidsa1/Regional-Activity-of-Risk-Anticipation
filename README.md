@@ -11,6 +11,7 @@ In this project we took the data from the Gambling Task of HCP fMRI 7T dataset a
 Our approach consists of two main parts:
 
 1- Running a permutation test between the activity of win and loss to find regions with a significant activity difference in win vs. loss.
+
 2- Predicting the class of each block (mostly win/mostly loss) using brain region activities as features, with Logistic Regression and SVM classifiers
 
 The slides of our presentation at NMA 2021 are available through [google slides](https://docs.google.com/presentation/d/1zRrYoo-wC2llhebMpD58NXA_URQ5LrPTi70cfvyBkbQ/edit#slide=id.ge51dc41796_2_83).
