@@ -6,7 +6,7 @@ The Human Connectome Project (HCP) is a project sponsored by sixteen components 
 
 The goal of the Human Connectome Project is to build a "network map" (connectome) that will shed light on the anatomical and functional connectivity within the healthy human brain, as well as to produce a body of data that will facilitate research into brain disorders such as dyslexia, autism, Alzheimer's disease, and schizophrenia.
 
-In this project we took the data from the Gambling Task of HCP tfMRI 7T dataset and explored the question: "Does the expectation of win vs. loss give rise to significantly different activity levels in some brain regions? Can we predict the clue itself [either win or loss dominance in trials] given regional activities?".
+In this project we took the data from the Gambling Task of HCP fMRI 7T dataset and explored the question: "Does the expectation of win vs. loss give rise to significantly different activity levels in some brain regions? Can we predict the clue itself [either win or loss dominance in trials] given regional activities?".
 
 Our approach consists of two main parts:
 
