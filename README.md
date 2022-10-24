@@ -1,4 +1,4 @@
-# Regional Activity of Risk Anticipation: An fMRI Study
+# Regional Activity of Risk Anticipation: A fMRI Study
 
 ## Introduction
 
